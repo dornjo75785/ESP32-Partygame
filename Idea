@@ -1,0 +1,21 @@
+Features
+
+Time Game
+- drink up as fast as you can
+
+Tara Game
+- Drink as much as you can in one sip
+
+
+requirements:
+Esp32
+Box
+time/weight display
+Leaderboard
+
+
+Es soll ein Partyspiel sein, das die beiden Spielmodi Time Game (Glas nehmen, austrinken wieder hinstellen in so wenig wie möglich Zeit) und Tara Game (Glas nehmen, so viel wie möglich in einem Schluck trinken und wieder abstellen zum Messen) vereint. 
+Dabei müssen die Ergebnisse (Zeit und Gewicht) natürlich auf einem Bildschirm angezeigt werden. Hierfür reicht eine einfache Anzeige. 
+Es soll außerdem einen weiteren besseren display geben, in dem auch einfache grafiken angezeigt werden können, und mit dem man durch ein menü zwischen den Spielmodi und dem Leaderboard wechseln kann
+In das Leaderboard auf einer Webseite sollen sich alle Leute nach dem Spielen mit ihrem Highscore eintragen können. Dieses Leaderboard soll synronisiert sein, so dass es immer das aktuelle leaderboard anzeigt. Das Ganze soll wenn möglich Batteriebetrieben funktionieren.
+Außerdem soll es sound geben und Leds die ihre farbe je nach spielmodus und spielsituation ändern können. 
